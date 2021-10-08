@@ -1,0 +1,7 @@
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\bin\Debug\SortArray.exe.config
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\bin\Debug\SortArray.exe
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\bin\Debug\SortArray.pdb
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\obj\Debug\SortArray.csproj.AssemblyReference.cache
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\obj\Debug\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\obj\Debug\SortArray.exe
+C:\Users\simone.mazzacano.ITT\source\repos\SortArray\SortArray\obj\Debug\SortArray.pdb
